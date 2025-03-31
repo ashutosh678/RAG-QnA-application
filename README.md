@@ -20,7 +20,7 @@ A Retrieval Augmented Generation (RAG) application built with Streamlit and Goog
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ashutosh678/RAG-QnA-application/tree/main)
 cd RAG-QnA-application
 ```
 
